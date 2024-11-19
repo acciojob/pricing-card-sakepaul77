@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+*{ 
+	text-align:center;
+	padding:1px
+	box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2);
+}
+#utton{
+	
+ background-color:red;
+	padding:15px;
+	color:white;
+	border-radius:70px;
+}
